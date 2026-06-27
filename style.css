@@ -363,7 +363,7 @@ section {
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 1.4rem 1.6rem;
+  padding: 20px 10px;
   display: flex;
   align-items: center;
   gap: 1rem;
